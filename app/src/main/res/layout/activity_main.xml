@@ -63,4 +63,10 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:text="btn9"/>
+    <Button
+        android:id="@+id/tenthbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="btn9"/>
 </RelativeLayout>
